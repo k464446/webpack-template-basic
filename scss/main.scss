@@ -1,0 +1,17 @@
+$color--black: #000;
+$color--white: #fff;
+
+
+body {
+  background-color: $color--black;
+  h1 {
+    color: $color--white;
+    font-size: 40px;
+    display: flex;
+  }
+
+
+}
+
+
+// Part 8. Bundler Ch 2. Webpack 09. Netlify 배포
